@@ -19,8 +19,11 @@ My skills:
 Links:
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/landonbakhsh/)
 - [Follow me on Twitter/X](https://x.com/lnbakhsh)
+- [Github](https://github.com/lnbakhsh/)
 
 In the news:
 - [OSSS Article](https://news.okstate.edu/magazines/state-magazine/articles/2019/fall/hard-work-pays-off.html)
 - [Eagle Scout](https://tulsaworld.com/eagle-scouts-local-scouts-awarded-top-honor/article_e38d760e-e9d0-5363-8b13-bd8a34292185.html)
 - [AP Capstone Recepient](https://www.tulsaschools.org/about/news/news-item/~board/district-news/post/more-than-200-students-receive-ap-scholar-awards)
+
+Contact me at landon@landonbakhsh.com
