@@ -8,7 +8,7 @@ permalink: /projects/
 
 All current and past projects. Also includes achievements.
 
-## Solid Seminar
+## **Solid Seminar**
 ### *Founder*
 
 Consulting company. Focusing on social media marketing, community building, and online security.
