@@ -12,9 +12,10 @@ permalink: /about/
 Hello! My name is Landon Bakhsh. I was born and raised in Tulsa, OK. I am currently an economics student at Oklahoma State University. You can check out my current projects on this website.
 
 My skills:
-- SEO, Copywriting, Social Media Management, Community Management
+- Social Media Management, Community Management, Documentation
 - Jira, Airtable, Notion, Zapier
-- Python, Javascript, SQL, HTML, CSS
+- Python, SQL (PostgreSQL)
+- Spreadsheets
 
 Links:
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/landonbakhsh/)
